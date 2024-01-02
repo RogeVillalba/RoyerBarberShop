@@ -26,7 +26,8 @@
 
 .botones{
     display: flex;
-    background-color: rgb(224, 221, 63);
+    background-color: rgb(196, 160, 76);
+    background-image: linear-gradient(to right, rgb(199, 192, 192),rgb(196, 160, 76) ,rgb(196, 160, 76), rgb(196, 160, 76), rgb(199, 192, 192));
     width: 110px;
     border-radius: 30px;
     text-align: center;
@@ -35,7 +36,6 @@
 
 .textoBoton{
     color: black;
-   
 }
 
 /*
