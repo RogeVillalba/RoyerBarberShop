@@ -3,12 +3,42 @@
     margin:0; 
     padding:0;
 }
-.Logo{
-    height: 100%;
-    width: 100%;
 
-}
-.logoHeader{
-    height: 98givh;
+.logoMain{
+    height: 99vh;
     width: 100%;
+}
+
+.botonReserva{
+    text-decoration: none;
+}
+
+.textoReserva{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(13, 13, 13);
+    position: relative;
+    background-color: rgb(240, 231, 65);
+    border-radius: 20px;
+    bottom: 530px;
+    left: 30px;
+    width: 100px;
+}
+
+.botonMusica{
+    text-decoration: none;
+}
+
+.textoMusica{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(13, 13, 13);
+    position: relative;
+    background-color: rgb(240, 231, 65);
+    border-radius: 20px;
+    bottom: 574px;
+    left: 240px;
+    width: 100px;
 }
