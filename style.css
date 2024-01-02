@@ -29,7 +29,7 @@
     display: flex;
     background-color: rgb(196, 160, 76);
     background-image: linear-gradient(to right, rgb(228, 219, 80),rgb(196, 160, 76) ,rgb(196, 160, 76), rgb(196, 160, 76), rgb(228, 219, 80));
-    width: 125px;
+    width: 135px;
     height: 50px;
     border-radius: 30px;
     text-align: center;
@@ -58,14 +58,7 @@
     text-decoration: none;
 
 }
-
-.listBotones li{
-    transition: transform 1s;
-}
-
-.listBotones li:hover{
-    transform: scale(1.2);
-}
+git 
 /*
 
 .botonReserva{
