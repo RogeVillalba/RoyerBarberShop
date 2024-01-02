@@ -72,39 +72,22 @@
     right: 5px;
 }
 
-/*
-
-.botonReserva{
-    text-decoration: none;
-}
-
-.textoReserva{
+.mainSession{
     display: flex;
-    justify-content: center;
-    text-align: center;
-    color: rgb(13, 13, 13);
-    position: relative;
-    background-color: rgb(240, 231, 65);
-    border-radius: 20px;
-    bottom: 530px;
-    left: 30px;
-    width: 100px;
+    flex-direction: column-reverse;
+    
 }
-
-.botonMusica{
-    text-decoration: none;
-}
-
-.textoMusica{
+.textoProximamente{
     display: flex;
-    justify-content: center;
-    text-align: center;
-    color: rgb(13, 13, 13);
+    color: wheat;
     position: relative;
-    background-color: rgb(240, 231, 65);
-    border-radius: 20px;
-    bottom: 574px;
-    left: 240px;
-    width: 100px;
+    left: 90px;
+    position: fixed;
+    top: 0;
 }
-*7
+
+
+.logoSession{
+    display: flex;
+    
+}
