@@ -33,7 +33,7 @@
     height: 50px;
     border-radius: 30px;
     text-align: center;
-    margin: 33px;
+    margin: 25px;
     text-decoration: none;
     
 }
@@ -42,6 +42,16 @@
     color: black;
     position: relative;
     top: 3px;
+    
+}
+
+.logoNavaja{
+    display: flex;
+    flex-direction: row;
+    height: 32px;
+    width: 32px;
+    position: relative;
+    top: 8px;
     
 }
 
@@ -55,10 +65,13 @@
 }
 
 .botones a{
+    display: flex;
     text-decoration: none;
-
+    margin: auto;
+    position: relative;
+    right: 5px;
 }
-git 
+
 /*
 
 .botonReserva{
